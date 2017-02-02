@@ -1,3 +1,4 @@
+'use strict';
 
 
 const role=require('role-model');
